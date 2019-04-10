@@ -1,0 +1,7 @@
+﻿  main.cpp
+c:\users\carol\dropbox\ubi\terceiro ano\sistemas distribuidos\projeto1\sdbrowser\sdbrowser\main.cpp(83): warning C4018: '<': signed/unsigned mismatch
+c:\users\carol\dropbox\ubi\terceiro ano\sistemas distribuidos\projeto1\sdbrowser\sdbrowser\main.cpp(142): warning C4018: '>': signed/unsigned mismatch
+c:\users\carol\dropbox\ubi\terceiro ano\sistemas distribuidos\projeto1\sdbrowser\sdbrowser\main.cpp(184): warning C4018: '<': signed/unsigned mismatch
+c:\users\carol\dropbox\ubi\terceiro ano\sistemas distribuidos\projeto1\sdbrowser\sdbrowser\main.cpp(217): warning C4018: '<': signed/unsigned mismatch
+c:\users\carol\dropbox\ubi\terceiro ano\sistemas distribuidos\projeto1\sdbrowser\sdbrowser\main.cpp(237): warning C4018: '<': signed/unsigned mismatch
+  SDBrowser.vcxproj -> C:\Users\carol\Dropbox\UBI\Terceiro Ano\Sistemas Distribuidos\Projeto1\SDBrowser\Debug\SDBrowser.exe
